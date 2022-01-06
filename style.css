@@ -1,3 +1,32 @@
 body{
-    background-color: aqua;
+    font-family: 'Ubuntu', sans-serif;
+}
+.display-flex{
+    display: flex;
+    margin-left: 130px;
+    margin-top: 70px;
+    margin-right: 30px;
+}
+.person-img{
+    height: 418px;
+    width: 495px;
+}
+.half-width{
+    width: 40%;
+    padding-right: 133px;
+}
+.h1-1{
+    font-size: 60px;
+    border-left: 3px solid purple;
+}
+.span-color{
+    color: rgba(105, 7, 161, 0.89);
+}
+.anchor-button{
+    text-decoration: none;
+    color: white;
+    background-image: linear-gradient(rgb(148, 8, 101), rgb(96, 56, 190));
+    border-radius: 5px;
+    font-weight: bold;
+    padding: 12px 40px;
 }

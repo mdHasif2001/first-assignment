@@ -59,3 +59,12 @@ body{
 #goal-id{
     background-color: rgb(218, 218, 155);
 }
+.code-img{
+    height: 350px;
+    width: 415px;
+    margin-top: 29px;
+}
+.code-2nd-div{
+    width: 30%;
+    margin-left: 123px;
+}

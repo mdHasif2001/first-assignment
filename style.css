@@ -3,9 +3,7 @@ body{
 }
 .display-flex{
     display: flex;
-    margin-left: 130px;
-    margin-top: 70px;
-    margin-right: 30px;
+    margin: 70px 30px 104px 130px;
 }
 .person-img{
     height: 418px;
@@ -67,4 +65,14 @@ body{
 .code-2nd-div{
     width: 30%;
     margin-left: 123px;
+}
+.community-img{
+    height: 350px;
+    width: 415px;
+    padding-top: 50px;
+}
+.community-div{
+    width: 48%;
+    margin-right: 123px;
+    margin-top: 40px;
 }

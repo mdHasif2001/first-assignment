@@ -40,8 +40,8 @@ body{
 .mission-2nd-div{
     width: 31%;
     margin-right: 25px;
-    padding-left: 15px;
-    border-radius: 10px;
+    border-radius: 20px;
+    padding:34px 25px;
 }
 .mission-flex{
     display: flex;

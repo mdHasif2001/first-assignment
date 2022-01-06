@@ -30,3 +30,32 @@ body{
     font-weight: bold;
     padding: 12px 40px;
 }
+.h1-2{
+    font-size: 50px;
+}
+.mission-1st-div{
+    margin-left: 359px;
+    margin-bottom: 74px;
+}
+.mission-2nd-div{
+    width: 31%;
+    margin-right: 25px;
+    padding-left: 15px;
+    border-radius: 10px;
+}
+.mission-flex{
+    display: flex;
+}
+.mission-img{
+    height: 92px;
+    width: 85px;
+}
+#mission-id{
+    background-color: rgba(209, 212, 212, 0.644);
+}
+#vision-id{
+    background-color: rgba(138, 187, 140, 0.589);
+}
+#goal-id{
+    background-color: rgb(218, 218, 155);
+}

@@ -16,6 +16,8 @@ body{
 .h1-1{
     font-size: 60px;
     border-left: 3px solid purple;
+    padding-left: 18px;
+    font-family: 'Heebo', sans-serif;
 }
 .span-color{
     color: rgba(105, 7, 161, 0.89);
@@ -75,4 +77,27 @@ body{
     width: 48%;
     margin-right: 123px;
     margin-top: 40px;
+}
+.me-div{
+    width: 40%;
+    margin-left: 100px;
+    margin-top: 50px;
+}
+
+footer{
+    color: white;
+    background-color: black;
+    text-align: center;
+    width: 100%;
+    padding: 14px 0;
+}
+footer p{
+    color: rgb(182, 150, 150);
+}
+footer h1{
+    font-family: 'Dancing Script', cursive; 
+    font-size: 48px;
+}
+.span-footer{
+    color: rgb(64, 175, 20);
 }
